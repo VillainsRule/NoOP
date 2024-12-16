@@ -21,7 +21,7 @@ public class PermissionListener implements Listener {
     }
 
     @EventHandler
-    public void onCommandEvent(PlayerCommandPreprocessEvent event) {
+    public void onCommand(PlayerCommandPreprocessEvent event) {
         Player player = event.getPlayer();
 
         if (checkPermissions(player))

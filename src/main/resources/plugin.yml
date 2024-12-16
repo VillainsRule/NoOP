@@ -1,5 +1,5 @@
 name: NoOP
-version: 1.0.0a
+version: 1.0.1a
 main: xyz.villainsrule.noop.NoOP
 
 commands:

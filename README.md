@@ -21,7 +21,8 @@
     - /give & /setblock
     - /function
     - /seed
-  - Keep in mind that this also blocks the console and command blocks!
+  - This applies to the client and console.
+  - This also blocks command "hacks", such as /minecraft:tp.
 
 <br>
 

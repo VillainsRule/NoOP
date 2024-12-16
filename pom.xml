@@ -6,7 +6,7 @@
 
     <groupId>xyz.villainsrule</groupId>
     <artifactId>noop</artifactId>
-    <version>1.0.0a</version>
+    <version>1.0.1a</version>
     <packaging>jar</packaging>
 
     <name>NoOP</name>
