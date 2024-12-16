@@ -1,0 +1,5 @@
+# generated
+target/
+
+# finder
+.DS_Store

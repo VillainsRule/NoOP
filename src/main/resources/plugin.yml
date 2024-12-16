@@ -1,0 +1,25 @@
+name: NoOP
+version: 1.0.0a
+main: xyz.villainsrule.noop.NoOP
+
+commands:
+  defaultgamemode:
+    description: 'nice try!'
+  deop:
+    description: 'nice try!'
+  function:
+    description: 'nice try!'
+  gamemode:
+    description: 'nice try!'
+  give:
+    description: 'nice try!'
+  op:
+    description: 'nice try!'
+  seed:
+    description: 'nice try!'
+  setblock:
+    description: 'nice try!'
+  teleport:
+    description: 'nice try!'
+  tp:
+    description: 'nice try!'
